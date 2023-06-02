@@ -1,4 +1,4 @@
-***COVID-19-World-Vaccination-Progress-Exploratory-Data-Analysis***
+***COVID-19 World Vaccination Progress Exploratory Data Analysis***
 
 ***About***
 
